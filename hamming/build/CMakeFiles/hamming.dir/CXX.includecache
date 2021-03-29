@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/godslayer007/exercism/cpp/hamming/hamming.cpp
+hamming.h
+/home/godslayer007/exercism/cpp/hamming/hamming.h
+stdexcept
+-
+iostream
+-
+
+/home/godslayer007/exercism/cpp/hamming/hamming.h
+string
+-
+

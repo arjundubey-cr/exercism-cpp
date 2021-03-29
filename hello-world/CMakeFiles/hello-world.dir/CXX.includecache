@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/godslayer007/exercism/cpp/hello-world/hello_world.cpp
+hello_world.h
+/home/godslayer007/exercism/cpp/hello-world/hello_world.h
+
+/home/godslayer007/exercism/cpp/hello-world/hello_world.h
+string
+-
+

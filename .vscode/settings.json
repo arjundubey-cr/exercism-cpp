@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "**/*.html": "html",
+        "**/templates/**/*.html": "django-html",
+        "**/templates/**/*": "django-txt",
+        "*.html": "html",
+        "stdexcept": "cpp",
+        "map": "cpp"
+    }
+}

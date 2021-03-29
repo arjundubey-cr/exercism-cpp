@@ -1,0 +1,4 @@
+/home/godslayer007/exercism/cpp/nucleotide-count/build/CMakeFiles/edit_cache.dir
+/home/godslayer007/exercism/cpp/nucleotide-count/build/CMakeFiles/rebuild_cache.dir
+/home/godslayer007/exercism/cpp/nucleotide-count/build/CMakeFiles/test_nucleotide-count.dir
+/home/godslayer007/exercism/cpp/nucleotide-count/build/CMakeFiles/nucleotide-count.dir
