@@ -1,0 +1,4 @@
+/home/godslayer007/exercism/cpp/space-age/CMakeFiles/rebuild_cache.dir
+/home/godslayer007/exercism/cpp/space-age/CMakeFiles/edit_cache.dir
+/home/godslayer007/exercism/cpp/space-age/CMakeFiles/test_space-age.dir
+/home/godslayer007/exercism/cpp/space-age/CMakeFiles/space-age.dir
