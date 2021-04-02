@@ -6,7 +6,15 @@
 
 #IncludeRegexTransform: 
 
+/home/godslayer007/exercism/cpp/space-age/space_age.cpp
+space_age.h
 /home/godslayer007/exercism/cpp/space-age/space_age.h
+
+/home/godslayer007/exercism/cpp/space-age/space_age.h
+string
+-
+map
+-
 
 /home/godslayer007/exercism/cpp/space-age/space_age_test.cpp
 space_age.h
